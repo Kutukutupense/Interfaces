@@ -7,8 +7,8 @@
 //nasıl abstract sınıflar diğer abstract sınıfları miras alırsa overrirde etme zorunluluğu kalkıyorsa ->
 //interfaceler de diğer bir interface i miras alırsa override etme zorunluluğu kalkar.
 //abstract classlarda değişken ve fonksiyon başlarına override edilmesini engelleyen final keyword u konulabilirken
-//interfacelerde bu keyword kullanılamaz. abstract sınıflarda değer ataması yapılabilir(stake tutabilir)
-// interfacelerde bir değişkene değer ataması yapılamaz(stake tutamaz) yani abstractların backingfieldları olabilir
+//interfacelerde bu keyword kullanılamaz. abstract sınıflarda değer ataması yapılabilir(state tutabilir)
+// interfacelerde bir değişkene değer ataması yapılamaz(state tutamaz) yani abstractların backingfieldları olabilir
 //interfacelerin olamaz. companion object yapısı ile bu kural delinebiliyor ama yapılmaması gerekir.
 
 
